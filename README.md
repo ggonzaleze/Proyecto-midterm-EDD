@@ -1,2 +1,2 @@
 # Proyecto-midterm-EDD
-Proyecto primer parcial estructura de datos. Programa que resuelve un laberinto mediante backtracking.
+Midterm project of my data structures class. Program that solves a labyrinth using backtracking.
